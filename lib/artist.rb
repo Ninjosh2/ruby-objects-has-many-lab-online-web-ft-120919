@@ -10,5 +10,5 @@ class Artist
     @songs 
   end 
   
-  def add_songs
+  def add_song
 end 
