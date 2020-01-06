@@ -16,7 +16,7 @@ class Artist
     @@song_count += 1 
   end 
   
-  def 
+  def add_song_by_name
   
   
   
