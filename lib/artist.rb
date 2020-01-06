@@ -3,3 +3,4 @@ class Artist
   @@song = 0 
   def initialize(name) 
     @name = name 
+    @songs = 
